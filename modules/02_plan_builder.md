@@ -1,3 +1,5 @@
+Change Log (2025-11-11): – Added a backup activity feature in case of bad weather
+
 Module 2 — Plan Builder (Options → Days)
 
 Create a short list of candidate activities (e.g., attractions, restaurants, parks).
@@ -10,3 +12,5 @@ for each day:
     pick Midday activity (close by)
     pick Afternoon activity (different theme)
     pick Evening restaurant or optional event
+    if weather is rainy or temperature is below 0:
+        pick at least one indoor activity as backup
