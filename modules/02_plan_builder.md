@@ -10,3 +10,5 @@ for each day:
     pick Midday activity (close by)
     pick Afternoon activity (different theme)
     pick Evening restaurant or optional event
+    if weather is rainy or temperature is below 0:
+        pick at least one indoor activity as backup
