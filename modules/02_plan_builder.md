@@ -1,3 +1,5 @@
+Change Log (2025-11-11): – Added a backup activity feature in case of bad weather
+
 Module 2 — Plan Builder (Options → Days)
 
 Create a short list of candidate activities (e.g., attractions, restaurants, parks).
